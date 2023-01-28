@@ -7,10 +7,6 @@
     margin: auto;
 }
 
-html, body {
-    min-width: 1440px;
-}
-
 .box {
     font-family: "Open Sans", sans-serif;
     display: flex;
