@@ -7,6 +7,12 @@
     margin: auto;
 }
 
+body {
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
+}
+
 .box {
     font-family: "Open Sans", sans-serif;
     display: flex;
